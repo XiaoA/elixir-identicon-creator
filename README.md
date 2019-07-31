@@ -1,6 +1,9 @@
 # Identicon
 
-**TODO: Add description**
+** Create your own identicon!
+
+This is a simple Elixir app that allows you to enter a string, which creates a unique [identicon](https://en.wikipedia.org/wiki/Identicon "Wikipedia's Identicon article"). 
+
 
 ## Installation
 
