@@ -4,6 +4,9 @@
 
 This is a simple Elixir app that allows you to enter a string, which creates a unique [identicon](https://en.wikipedia.org/wiki/Identicon "Wikipedia's Identicon article"). 
 
+### Examples
+- [An identicon for "Andrew"](./image/Andrew.png)
+- [An identicon for "Allison"](./image/Allison.png)
 
 ## Installation
 
